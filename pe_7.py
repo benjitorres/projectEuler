@@ -19,3 +19,5 @@ def find_10001st_prime():
 
 result = find_10001st_prime()
 print(result)
+
+#result by perplexity labs lol
